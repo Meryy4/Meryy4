@@ -1,4 +1,4 @@
-# Hi, I'm Meryeme 👋
+# Hi, I'm Meryeme :)
 
 AI/ML engineering student at **ENSIAS** (Rabat, AI track). I build LLM and ML systems end to end, and I spend most of my time on the parts that make them trustworthy: evaluators, held-out sets, calibration and confidence intervals.
 
