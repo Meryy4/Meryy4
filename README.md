@@ -11,7 +11,7 @@ AI/ML engineering student at **ENSIAS** (Rabat, AI track). I build LLM and ML sy
 
 **Looking for an ML / AI engineering internship  for summer 2027.**
 
-[Portfolio](https://meryemeramdisportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/meryeme-ramdi) · [dev.to](https://dev.to/meryyy) · [Email](mailto:meryemeramdi05@gmail.com)
+[Portfolio](https://meryemeramdisportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/meryeme-ramdi-5a879b388/) · [dev.to](https://dev.to/meryyy) · [Email](mailto:meryemeramdi05@gmail.com)
 
 ---
 
