@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="reading-cat.svg" width="460" alt="A terminal runs “cat reading.txt” and prints an ASCII cat peeking over an open book">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="reading-cat-dark.svg">
+    <img src="reading-cat.svg" width="440" alt="A terminal runs “cat reading.txt” and prints an ASCII cat with blushing cheeks peeking over an open book, next to a steaming cup of tea">
+  </picture>
 </p>
 
 # Hi, I'm Meryeme :)
