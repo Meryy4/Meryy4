@@ -2,7 +2,7 @@
 
 AI/ML engineering student at **ENSIAS** (Rabat, AI track). I build LLM and ML systems end to end, and I spend most of my time on the parts that make them trustworthy: evaluators, held-out sets, calibration and confidence intervals.
 
-**Looking for an ML / AI engineering internship in France for summer 2027.**
+**Looking for an ML / AI engineering internship  for summer 2027.**
 
 [Portfolio](https://meryemeramdisportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/meryeme-ramdi) · [dev.to](https://dev.to/meryyy) · [Email](mailto:meryemeramdi05@gmail.com)
 
